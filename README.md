@@ -1,6 +1,6 @@
 # mc-svg-import
 
-A SVG importer for [three.js](https://threejs.org/), written in TypeScript. It turns SVG drawings into flat three.js shapes: filled areas and stroked outlines in their colours, the right way up, in the XY plane. It was made for [SceneEditor](https://github.com/VJigouline/SceneEditor), and works in any three.js application.
+An SVG importer for [three.js](https://threejs.org/), written in TypeScript. It turns SVG drawings into flat three.js shapes: filled areas and stroked outlines in their colours, the right way up, in the XY plane. It was made for [SceneEditor](https://github.com/VJigouline/SceneEditor), and works in any three.js application.
 
 ```ts
 import { loadSvg } from 'mc-svg-import';
